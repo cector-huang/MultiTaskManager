@@ -1,0 +1,2 @@
+# MultiTaskManager
+maven project
